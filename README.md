@@ -1,2 +1,2 @@
-# Awesome-Gradients-
+# Awesome Gradients
 Awesome Tailwind CSS Gradients!
